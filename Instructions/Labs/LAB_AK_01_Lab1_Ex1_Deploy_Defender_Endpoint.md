@@ -1,3 +1,7 @@
+
+<img src="https://github.com/vipinom/SC-200T00A-Microsoft-Security-Operations-Analyst/blob/c8b02f191064bbf47a11bc8d4b195e6384c9d47e/testFolder/TestUpload.jpg"/>
+
+
 # Module 1 - Lab 1 - Exercise 1 - Deploy Microsoft Defender for Endpoint
 
 ## Lab scenario
